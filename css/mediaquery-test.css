@@ -1,0 +1,29 @@
+/* utils */
+@media (max-width: 1400px) {
+  /* css for desktop */
+  /* xl */
+  html {
+    background: red;
+  }
+}
+@media (max-width: 992px) {
+  /* css for small desktop */
+  /* lg */
+  html {
+    background: orange;
+  }
+}
+@media (max-width: 768px) {
+  /* css for tablet */
+  /* md */
+  html {
+    background: yellow;
+  }
+}
+@media (max-width: 576px) {
+  /* css for mobile */
+  /* sm */
+  html {
+    background: green;
+  }
+}

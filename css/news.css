@@ -1,0 +1,12 @@
+.section__news .nav {
+  flex-direction: column;
+}
+
+.section__news .row .col-md-4 {
+  position: relative;
+}
+
+.section__news .row .col-md-4 nav {
+  position: sticky;
+  top: 5rem;
+}
