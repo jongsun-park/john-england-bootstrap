@@ -1,6 +1,6 @@
 const animatedText = () => {
   const marks = document.querySelectorAll("mark");
-  console.log(marks);
+  // console.log(marks);
   marks.forEach((mark, index) => {
     setTimeout(() => {
       mark.classList.add("mark");

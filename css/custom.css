@@ -140,7 +140,7 @@ div[class*="section__"] {
 }
 
 .navbar .container {
-  flex-wrap: nowrap;
+  /* flex-wrap: nowrap; */
 }
 
 /* title styles */
