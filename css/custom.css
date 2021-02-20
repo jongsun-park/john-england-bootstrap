@@ -135,6 +135,12 @@ div[class*="section__"] {
 
 .logo-image {
   max-height: 1.4rem;
+  max-width: 80%;
+  min-width: 200px;
+}
+
+.navbar .container {
+  flex-wrap: nowrap;
 }
 
 /* title styles */
