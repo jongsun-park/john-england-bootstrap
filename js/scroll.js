@@ -31,6 +31,7 @@ const animateFrom = (elm, direction) => {
   );
 };
 
+// custom function for scroll stagger
 const batch = (targets, vars) => {
   let varsCopy = {},
     interval = vars.interval || 0.1,

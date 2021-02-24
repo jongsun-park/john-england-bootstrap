@@ -128,6 +128,7 @@ div[class*="section__"] {
   z-index: 3;
 }
 
+.nav-link.active,
 .nav-link:hover,
 .nav-link:active {
   color: var(--default-color);

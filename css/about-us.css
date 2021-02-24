@@ -20,6 +20,8 @@ mark {
 
 mark.mark {
   color: white;
+  transition-delay: 100ms;
+  transition-duration: 300ms;
 }
 
 mark::before {

@@ -1,6 +1,11 @@
 const animatedText = () => {
+  const blockquotes = document.querySelectorAll(".blockquote mark");
   const marks = document.querySelectorAll("mark");
-  // console.log(marks);
+
+  blockquotes.forEach((mark) => {
+    mark.style.color = "white";
+  });
+
   marks.forEach((mark, index) => {
     setTimeout(() => {
       mark.classList.add("mark");
