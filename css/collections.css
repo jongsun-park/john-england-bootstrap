@@ -6,6 +6,7 @@
 .gallery-item {
   width: 20%;
   padding: 4px;
+  opacity: 0;
 }
 
 @media (max-width: 768px) {
