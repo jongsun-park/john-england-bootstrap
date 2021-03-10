@@ -140,10 +140,6 @@ div[class*="section__"] {
   min-width: 200px;
 }
 
-.navbar .container {
-  /* flex-wrap: nowrap; */
-}
-
 /* title styles */
 h2[class*="__title"] {
   font-weight: 100;

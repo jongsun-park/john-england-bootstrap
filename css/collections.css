@@ -16,7 +16,7 @@
 }
 @media (max-width: 576px) {
   .gallery-item {
-    width: 33%;
+    width: 50%;
   }
 }
 
